@@ -1,0 +1,18 @@
+Saya Ridzky Ardiansyah mengerjakan TP 1 dalam mata kuliah DPBO untuk keberkahan-Nya maka saya tidak melakukan kecurangan seperti yang telah di spesifikasikan. Aamiin.
+
+*Kesulitan
+Saat membuat form Menu nya, terutama saat ingin mengganti panel setelah di klik cari ataupun kemenu detail. Saya masih kurang terlalu memahami mengenai panel, bagaimana cara menggunakannya agar bisa efisien.
+
+*Hal Baru
+-Mengenai Panel
+
+*Fitur
+-Login
+-Password
+-Menu Utama
+-Menu Detail
+-Button ke web
+-Button ke logout
+-Button ke Menu Utama
+-Button Cari
+-Button kembali
